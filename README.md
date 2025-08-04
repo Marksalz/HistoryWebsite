@@ -94,33 +94,6 @@ Each page contains navigation links to the other three sections:
 - **Artifacts** → Links to: Origins, Figures, Legacy
 - **Legacy** → Links to: Origins, Figures, Artifacts
 
-## Content Attribution
-
-This is a fictional educational project. The character of Private Thomas Whitmore and his letters are fictional, created to represent the experiences of real WWI soldiers. Historical facts and context are based on documented WWI history.
-
-## Contributing
-
-This is an educational project. If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is for educational purposes. Please respect the historical content and use it appropriately for learning and teaching about WWI history.
-
-## Educational Use
-
-This website is suitable for:
-
-- History education at middle/high school level
-- WWI commemoration events
-- Digital storytelling examples
-- HTML/CSS learning projects
-- Historical web design demonstrations
-
 ---
 
 _"Lest we forget" - In memory of all who served during the Great War (1914-1918)_
